@@ -1,0 +1,2 @@
+DROP DATABASE IF EXIST dothemathdb;
+CREATE DATABASE dothemathdb;
