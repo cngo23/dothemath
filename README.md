@@ -1,2 +1,0 @@
-# dothemath
-Educational Math App
